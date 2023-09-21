@@ -1,8 +1,17 @@
-# LMU Female Soccer Research
+# LMU Female Soccer Research  
+  
+#### Gavin Butts, Shaye O’Beirne, John Brasher, Junyuan Lin  
+  
+Directories are defined as follows.  
+  
+code  
+> contains code that is used throughout the durations of the project
 
-#### Gavin Butts, Shaye O’Beirne, John Brasher, Junyuan Lin
+data
+> contains data that is utilized in code and in figure creation
 
-Directories are defined as follows.
+figures
+> statistical data visualizations used in poster and paper creation
 
- code
- * 
+presentations
+> contains the versions of the project presented
